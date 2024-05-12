@@ -1,6 +1,6 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="" />
-&nbsp;&nbsp;&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=120&section=header"/>
 
+<h1 align="center">Olá, eu sou a Mariana</h1> &nbsp;
 
 <p align="center">Formada em Analise e Desenvolvimento de Sistemas pela São Paulo Tech School - SPTech. 
 Sou uma pessoa que gosta de colaborar e adquirir novas experiências. Aprender faz parte do meu dia a dia e os desafios me mantém sempre motivada a descobrir as melhores soluções.</p>&nbsp;
@@ -21,11 +21,9 @@ Sou uma pessoa que gosta de colaborar e adquirir novas experiências. Aprender f
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### Banco de Dados:
 
@@ -49,8 +47,6 @@ Sou uma pessoa que gosta de colaborar e adquirir novas experiências. Aprender f
 </div>&nbsp;&nbsp;
  
 
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=120&section=footer"/>
 
 
